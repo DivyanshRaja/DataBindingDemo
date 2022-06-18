@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="save_user">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="checked_ro_show">Save password ?</string>
+    <string name="do_you_want_to_show_password">Do you want to show name.</string>
+</resources>
