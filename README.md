@@ -1,5 +1,5 @@
 # DataBindingDemo
-![img1](https://user-images.githubusercontent.com/107350779/182363455-ae3f5b5a-1b2b-4b53-ba68-76bdc912e844.jpg)
+https://user-images.githubusercontent.com/107350779/182532334-21d0a332-28a1-4b8a-88d4-7c194342dddd.mp4
 
 ** Project Setup
 **Package Setup - Module
