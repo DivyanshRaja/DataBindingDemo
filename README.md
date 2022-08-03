@@ -17,15 +17,13 @@ Dependency
 
 
 
-### Project Architecture
-##### Android SDK
-   *  applicationId "com.raja.databindingdemo"
-        minSdk 25
-        targetSdk 32
-        versionCode 1
-        versionName "1.0"
-   * gradlew wrapper 6.5
-##### Network Api
-   !image
-##### Project Module
+Project Architecture
+Android SDK
+applicationId "com.raja.databindingdemo"
+minSdk 25
+targetSdk 32
+versionCode 1
+versionName "1.0"
+gradlew wrapper 6.5
+Network Api
    
